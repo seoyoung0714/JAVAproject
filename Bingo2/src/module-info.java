@@ -1,0 +1,3 @@
+module bingo1 {
+
+}
